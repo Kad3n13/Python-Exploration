@@ -6,7 +6,7 @@ A Pygame-based starfield simulation with enhanced visuals.
 
 ## Experience the Game
 
- https://studio.youtube.com/video/Tts_Aep5Q3Y/edit](<>).
+ [https://youtu.be/Tts_Aep5Q3Y](<>).
 
 ## Description
 
