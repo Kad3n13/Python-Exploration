@@ -1,3 +1,19 @@
+Examples
+
+1 Entry
+
+![ex 1 star](https://github.com/Kad3n13/Python-Exploration/assets/159424810/c28d697b-08a3-4848-be30-88ef5017d221)
+
+2 Mid
+
+
+![ex star 2](https://github.com/Kad3n13/Python-Exploration/assets/159424810/2964704e-b41e-47ff-bffe-8af510e40373)
+
+3 end
+
+![ex star 3](https://github.com/Kad3n13/Python-Exploration/assets/159424810/a8a5e316-c1b5-45cd-8d2e-c3fee2e84964)
+
+
 # What Ive learned
 Working on this Pygame project has honed my Python programming skills by allowing me to apply concepts such as object-oriented programming, randomization, and color manipulation in a practical context.
 
