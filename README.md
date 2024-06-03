@@ -1,12 +1,12 @@
 # Enhanced Starfield Simulation
 
-![Starfield Simulation](<>)
+![Starfield Simulation]
 
 A Pygame-based starfield simulation with enhanced visuals.
 
 ## Experience the Game
 
- [https://youtu.be/Tts_Aep5Q3Y](<>).
+ [https://youtu.be/Tts_Aep5Q3Y]
 
 ## Description
 
