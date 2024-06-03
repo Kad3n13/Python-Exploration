@@ -1,6 +1,6 @@
 # Enhanced Starfield Simulation
 
-![Starfield Simulation](<link to an image or GIF of your simulation>)
+![Starfield Simulation](<>)
 
 A Pygame-based starfield simulation with enhanced visuals.
 
