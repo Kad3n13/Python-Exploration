@@ -4,9 +4,9 @@
 
 A Pygame-based starfield simulation with enhanced visuals.
 
-## Play the Game
+## Experience the Game
 
-You can play the game directly in your browser here [https://replit.com/@kadencsgo/Starfeild](<>).
+ https://studio.youtube.com/video/Tts_Aep5Q3Y/edit](<>).
 
 ## Description
 
