@@ -6,7 +6,7 @@ A Pygame-based starfield simulation with enhanced visuals.
 
 ## Play the Game
 
-You can play the game directly in your browser here [https://replit.com/@kadencsgo/Starfeild](<link to your hosted game on GitHub Pages>).
+You can play the game directly in your browser here [https://replit.com/@kadencsgo/Starfeild](<>).
 
 ## Description
 
@@ -30,12 +30,11 @@ To play the game locally, follow these steps:
 
 ## Controls
 
-- Use the arrow keys to move the player.
-- [Include any other controls or instructions as needed]
+Move mosue left and Right for Accerlaration
 
 ## Credits
 
-This project was created by [Your Name].
+This project was created by [Kaden Oberfeld].
 
 ## License
 
