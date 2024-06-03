@@ -30,7 +30,7 @@ To play the game locally, follow these steps:
 
 ## Controls
 
-Move mosue left and Right for Accerlaration
+Move mosue left and Right for Accerlaration or deceleration
 
 ## Credits
 
