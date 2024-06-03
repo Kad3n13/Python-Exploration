@@ -6,7 +6,7 @@ A Pygame-based starfield simulation with enhanced visuals.
 
 ## Play the Game
 
-You can play the game directly in your browser here [https://replit.com/@kadencsgo/Python](<link to your hosted game on GitHub Pages>).
+You can play the game directly in your browser here [https://replit.com/@kadencsgo/Starfeild](<link to your hosted game on GitHub Pages>).
 
 ## Description
 
